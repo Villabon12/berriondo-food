@@ -1,0 +1,8 @@
+{
+  "name": "BerriondoFood",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d481e97a"
+}
