@@ -1,0 +1,13 @@
+[
+    {
+      "icon": "fast-food",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "cart",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    }
+
+]
